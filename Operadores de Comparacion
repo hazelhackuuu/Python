@@ -1,0 +1,44 @@
+#OPERACIONES DE COMPARACION
+
+numero1 = 30
+numero2 = 20          #OPERADOR DE MAYOR QUE  >
+print(numero1 > numero2)
+
+
+
+
+#OPERACIONES DE COMPARACION
+
+
+numero3 = 30
+numero4 = 20           #OPERADOR DE MENOR QUE <
+
+print(numero3 < numero4)
+
+
+
+
+
+
+#OPERACIONES DE COMPARACION
+
+numero5 = 40
+
+print(numero5 <= 30)    #OPERADOR SI ES MENOR QUE Y NOS DARA EL VALOR SI DE TRUE O FALSE
+
+
+
+
+#OPERACIONES DE COMPARACION
+
+numero7 =  40
+
+print(numero7 >= 50)   #OPERADOR ES MAYOR QUE Y NOS DARA EL VALOR DE TRUE O FALSE
+
+
+#OPERACIONES DE COMPARACION
+
+numero8 = 30
+
+print(numero8 == 30)     #OPERADOR ES MAYOR QUE Y NOS DARA EL VALOR DE TRUE O FALSE
+

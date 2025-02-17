@@ -1,0 +1,47 @@
+#DETERMINAR EL NUMERO MAYOR APARTIR DE 3 DATOS
+
+
+                                                 
+                                                 #PARTE NUMERO 1    
+                                                
+                                               #Diego Soto Vargas   
+
+#En este apartado usaremos variables y datos flotantes y datos de entrada con el objetivo de pedir el dato a un usuario.
+
+
+#Declaracion de variable (numero1) seguido del valor convertido a flotante (float) concatenado con input, esto dejara al usuario ingresar el numero.
+
+numero1 =float(input("Ingresa el primer numero:"))
+
+numero2 = float(input("Ingresa el segundo numero:"))
+
+numero3= float(input("Ingresa el tercer numero:"))
+
+
+#Si lo analizamos mejor se declara la variable y se pone flotante por qué trabajaremos con numero que posiblemente tengan o no residuo, seguido de input donde iria nuestro mensaje.
+
+
+                                            #PARTE NUMERO 2   
+
+
+#Uso de condicionales en if y elif y else.
+
+#Ya trabajado con valores, se  procede a trabajar con condicionales, todo esto para poder trabajar de una manera sencilla y rapida.
+
+if numero1 > numero2 and numero1 >numero3:
+    
+    print("El primer numero es el mayor")  #Imprimira solo si es mayor al numero 2 y 3.
+    
+  
+
+elif numero2 > numero1 and numero2 > numero3:  #Mismo caso uso de condicionales, ahora este nos indicara si el numero2 es mayor al 1 y el numero 2 mayor al numero3. 
+    
+    print("El segundo numero es el mayor")
+    
+else:  #Ahora usaremos else para aseguranos que los 2 numeros restantes sean mayores, en dado caso qué no lo sea se salta al tercero y se imprime el mensaje.
+     print("El tercer numero es el mayor")
+    
+    
+
+
+

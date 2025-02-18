@@ -47,6 +47,13 @@ print(lenguajes3[0:4])
  
  
                         #IMPRIMIR UNO LISTA DE OBJETOS DESDE DONDE LE INDIQUEMOS.
-                        
+
+
+                 
+  #              0          1       2         3          4     5      6     7
+lenguajes3 = ["Python", "Ruby", "Java", "Javascript", "Lua", "C#", "C+", "C++"]
+lenguajes3[1] = "HTML"
+print(len(lenguajes3))           
+                                                
                         
                         

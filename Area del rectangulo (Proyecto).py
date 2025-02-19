@@ -1,8 +1,7 @@
                  #DETERMINAR EL AREA DE UN RECTANGULO 
 
                          #PARTE NUMERO 1
-                       #Diego Soto Vargas
-                       
+                    
                        
                        
                        
